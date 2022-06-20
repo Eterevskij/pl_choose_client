@@ -245,6 +245,10 @@ body {
   cursor: pointer;
 }
 
-/* @media (max-width: 600px) {
+@media (max-width: 1280px) {
 
-} */
+  .tabSlider__slider .ant-segmented-item-label {
+    padding: 3px 12px;
+  }
+
+}
